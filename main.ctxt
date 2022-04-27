@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=main
+comment0.text=\r\n\ this\ will\ run\ the\ actual\ game\ of\ texas\ holdem\ poker,\ due\ to\ the\ complexity\ of\ coding\ the\ game\ the\ flop,\ turn\ and\ river\ will\ all\ be\ dealt\ at\ once\ and\ theres\ only\ one\ round\ of\ betting\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

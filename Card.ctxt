@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ This\ class\ defines\ a\ card\ object.\r\n\r\n\ @author\ Dr.\ Zeitz\r\n\ @version\ CPSC\ 220\r\n
+comment1.params=s\ c\ n\ r
+comment1.target=Card(Card.Suit,\ java.lang.String,\ int,\ Card.Rank)
+comment1.text=\r\n\ Constructor\ for\ cards\r\n
+comment2.params=
+comment2.target=Card.Suit\ getSuit()
+comment3.params=
+comment3.target=int\ getNum()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=Card.Rank\ getRank()
+comment6.params=list
+comment6.target=void\ shuffle(java.util.ArrayList)
+comment7.params=c
+comment7.target=java.lang.String\ getInfo(Card)
+comment8.params=list
+comment8.target=java.lang.String\ tellHand(java.util.ArrayList)
+comment9.params=list
+comment9.target=void\ addCardsToDeck(java.util.ArrayList)
+numComments=10
